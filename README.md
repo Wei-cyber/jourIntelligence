@@ -4,6 +4,6 @@
 ### @credit datasets are provided by the MOOC
 
 ## playing around with the deep learning framework
-1 . DL.ipynb
-
+1. DL.ipynb
+2. supportVectorMachine
 ## usuage of openAI API
